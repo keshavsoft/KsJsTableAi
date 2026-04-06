@@ -9,3 +9,9 @@ All notable changes to this extension are documented here.
 ### ✅ Added
 
 * datalist common for both form and footer in table
+
+## [1.6.1]
+
+### ✅ Added
+
+* footer save and row options ui perfect, next fetch
