@@ -19,3 +19,7 @@ All notable changes to this extension are documented here.
 ## [1.7.1]
 
 * perfect with config and its validation
+
+## [1.7.2]
+
+* still need to test footer save
