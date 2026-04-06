@@ -1,4 +1,4 @@
-import { initTable } from "./KSTableAi/V6/entry.js";
+import { initTable } from "./KSTableAi/V7/entry.js";
 
 const dataToShow = [
     {
@@ -57,16 +57,40 @@ const ledgerDataToShow = [
 ];
 
 let startFunc = () => {
-    initTable({
-        containerId: 'kSTableContainer',
-        data: dataToShow,
-        tableName: "Stock Items"
-    });
-
+    // initTable({
+    //     containerId: 'kSTableContainer',
+    //     data: dataToShow,
+    //     tableName: "Stock Items",
+    //     endPoints: {
+    //         create: "",
+    //         update: "",
+    //         delete: ""
+    //     },
+    //     options: {
+    //         showVertical: false,
+    //         showRowOptions: false,
+    //         showFooter: true
+    //     }
+    // });
+debugger;
     initTable({
         containerId: 'kSTableContainerForLedgers',
         data: ledgerDataToShow,
-        tableName: "Ledgers"
+        tableName: "Ledgers",
+        endPoints: {
+            create: "",
+            update: "",
+            delete: ""
+        },
+        options: {
+            vertical: {
+                showVertical: false
+            },
+            table: {
+                showRowOptions: false,
+                showFooter: true
+            }
+        }
     });
 };
 

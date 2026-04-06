@@ -15,3 +15,7 @@ All notable changes to this extension are documented here.
 ### ✅ Added
 
 * footer save and row options ui perfect, next fetch
+
+## [1.7.1]
+
+* perfect with config and its validation
