@@ -1,6 +1,6 @@
 {
-  "name": "kstable",
-  "version": "0.0.0",
+  "name": "KsJsTableAi",
+  "version": "1.5.1",
   "private": true,
   "type": "module",
   "scripts": {

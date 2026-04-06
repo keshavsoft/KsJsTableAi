@@ -1,4 +1,4 @@
-import { initTable } from "./KSTableAi/V4/entry.js";
+import { initTable } from "./KSTableAi/V5/entry.js";
 
 const dataToShow = [
     {
