@@ -23,3 +23,7 @@ All notable changes to this extension are documented here.
 ## [1.7.2]
 
 * still need to test footer save
+
+## [1.5.1]
+
+* perfect with table crud till now 
