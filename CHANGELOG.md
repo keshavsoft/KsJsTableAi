@@ -27,3 +27,9 @@ All notable changes to this extension are documented here.
 ## [1.5.1]
 
 * perfect with table crud till now 
+
+## [1.23.1]
+
+* perfect with 3 exports and cdn also
+
+https://github.com/keshavsoft/OrderManV9
