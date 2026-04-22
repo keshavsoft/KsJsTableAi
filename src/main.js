@@ -1,3 +1,3 @@
-import { initTable, initVertical, initTableOnly } from "./KSTableAi/V23/entry.js";
+import { initTable, initVertical, initTableOnly } from "./KSTableAi/V24/entry.js";
 
 window.KSTable = { initTable, initVertical, initTableOnly };

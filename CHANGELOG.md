@@ -33,3 +33,7 @@ All notable changes to this extension are documented here.
 * perfect with 3 exports and cdn also
 
 https://github.com/keshavsoft/OrderManV9
+
+## [1.24.1]
+
+* gone for mozilla submission
