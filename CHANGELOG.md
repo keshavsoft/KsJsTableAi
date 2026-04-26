@@ -37,3 +37,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.24.1]
 
 * gone for mozilla submission
+
+## [1.25.1]
+
+* boilerplate html is now build dynamic like react hml
