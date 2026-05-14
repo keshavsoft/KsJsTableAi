@@ -49,3 +49,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.32.3]
 
 * public minified added
+
+## [1.32.4]
+
+* header v4 with menu click
