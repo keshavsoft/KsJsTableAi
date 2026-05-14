@@ -41,3 +41,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.25.1]
 
 * boilerplate html is now build dynamic like react hml
+
+## [1.32.2]
+
+* 32 for kstable and 2 for header
