@@ -45,3 +45,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.32.2]
 
 * 32 for kstable and 2 for header
+
+## [1.32.3]
+
+* public minified added
