@@ -57,3 +57,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.33.5]
 
 * 33 show tabel new started
+
+## [1.34.1]
+
+* mount new started with showtable
