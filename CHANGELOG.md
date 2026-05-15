@@ -61,3 +61,7 @@ https://github.com/keshavsoft/OrderManV9
 ## [1.34.1]
 
 * mount new started with showtable
+
+## [1.35.1]
+
+* table search and serial with widths
