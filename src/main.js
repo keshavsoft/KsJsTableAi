@@ -5,3 +5,5 @@ import { initHeader } from "./header/v5/initHeader.js";
 
 window.KSTable = { initShowTable };
 window.KSHeader = { initHeader };
+
+console.log("KeshavSoft");
